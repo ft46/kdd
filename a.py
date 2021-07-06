@@ -12,3 +12,5 @@ for i in grade:
         print('pas')
     else:
         print('fail')
+DIGIT='digit'
+print(DIGIT)
